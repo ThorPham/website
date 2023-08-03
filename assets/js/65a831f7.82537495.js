@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[4747],{75897:function(t){t.exports=JSON.parse('{"allTagsPath":"/website/tutorials/tags","slug":"/website/tutorials/tags/c","name":"C#","count":1,"permalink":"/website/tutorials/tags/c"}')}}]);

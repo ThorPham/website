@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[2520],{71498:function(t){t.exports=JSON.parse('{"allTagsPath":"/website/tutorials/tags","slug":"/website/tutorials/tags/react","name":"REACT","count":4,"permalink":"/website/tutorials/tags/react"}')}}]);

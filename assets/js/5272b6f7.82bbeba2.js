@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[9012],{15126:function(s){s.exports=JSON.parse('{"allTagsPath":"/website/tutorials/tags","slug":"/website/tutorials/tags/props","name":"PROPS","count":1,"permalink":"/website/tutorials/tags/props"}')}}]);

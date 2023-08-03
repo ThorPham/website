@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[727],{63760:function(a){a.exports=JSON.parse('{"allTagsPath":"/website/tutorials/tags","slug":"/website/tutorials/tags/java","name":"JAVA","count":4,"permalink":"/website/tutorials/tags/java"}')}}]);

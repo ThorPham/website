@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[6872],{96200:function(s){s.exports=JSON.parse('{"allTagsPath":"/website/tutorials/tags","slug":"/website/tutorials/tags/sdk","name":"SDK","count":1,"permalink":"/website/tutorials/tags/sdk"}')}}]);

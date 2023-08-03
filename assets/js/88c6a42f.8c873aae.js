@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[3388],{38269:function(e){e.exports=JSON.parse('{"allTagsPath":"/website/tutorials/tags","slug":"/website/tutorials/tags/neo-go","name":"NEO GO","count":1,"permalink":"/website/tutorials/tags/neo-go"}')}}]);

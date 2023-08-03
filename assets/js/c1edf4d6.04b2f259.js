@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[9869],{96602:function(e){e.exports=JSON.parse('{"allTagsPath":"/website/tutorials/tags","slug":"/website/tutorials/tags/neon-js","name":"NEON-JS","count":3,"permalink":"/website/tutorials/tags/neon-js"}')}}]);

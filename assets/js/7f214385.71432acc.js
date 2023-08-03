@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[9345],{99443:function(t){t.exports=JSON.parse('{"allTagsPath":"/website/tutorials/tags","slug":"/website/tutorials/tags/walletconnect","name":"WALLETCONNECT","count":1,"permalink":"/website/tutorials/tags/walletconnect"}')}}]);
