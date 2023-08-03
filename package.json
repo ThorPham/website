@@ -10,9 +10,9 @@
     "start": "export NODE_OPTIONS=--openssl-legacy-provider && docusaurus start",
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && docusaurus deploy",
+    "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
-    "serve": "export NODE_OPTIONS=--openssl-legacy-provider && docusaurus serve",
+    "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
