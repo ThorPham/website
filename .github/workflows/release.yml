@@ -23,3 +23,5 @@ jobs:
           action: "upload"
           app_location: "/build" # App source code path
           skip_app_build: true
+          user_name: thorpham
+          user_email: dungphamvan0803@gmail.com
