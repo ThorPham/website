@@ -7,24 +7,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'NEO Developer Resource',
   tagline: 'Find a comprehensive collection of tools and resources to help you build outstanding applications on the Neo blockchain.',
-  url: 'https://neo.org',
-  baseUrl: '/',
+  url: 'https://thorpham.github.io/',
+  baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon-32x32.png',
-  organizationName: 'https://github.com/neo-project', // Usually your GitHub org/user name.
-  projectName: 'neo-dev-portal', // Usually your repo name.
+  organizationName: 'thorpham', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
   onBrokenLinks: 'ignore', //this is here only for TESTING
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "zh"],
+    locales: ["en"],
     localeConfigs: {
       en: {
         label: 'English',
       },
-      ja: {
-        label: '中文',
-      },
+      // ja: {
+      //   label: '中文',
+      // },
     },
   },
   plugins: [
